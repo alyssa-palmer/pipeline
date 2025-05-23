@@ -3,8 +3,8 @@ import numpy as np
 import json
 import os
 
-VIDEO_PATH = r"videos\6s_c_mback.mp4"
-FRAME_OUTPUT_DIR = "output/framesv2"
+VIDEO_PATH = "videos/5s_c_mback.mp4"
+FRAME_OUTPUT_DIR = "output/frames"
 JSON_OUTPUT_PATH = "output/blobs/blobs.json"
 
 os.makedirs(FRAME_OUTPUT_DIR, exist_ok=True)
@@ -47,6 +47,7 @@ def main():
     cap = cv2.VideoCapture(VIDEO_PATH)
     frame_id = 0
     output_data = []
+    previous_positions = {}
 
     while cap.isOpened():
         ret, frame = cap.read()
@@ -60,6 +61,24 @@ def main():
         thresh = preprocess_frame(frame)
         cv2.imwrite(f"{FRAME_OUTPUT_DIR}/thresh_{frame_id:04d}.png", thresh)
         blobs = detect_blobs(thresh)
+
+        updated_blobs = []
+        for blob in blobs:
+            obj_id = blob["object_id"]
+            x, y = blob["x"], blob ["y"]
+
+            # Save previous position if available
+            if obj_id in previous_positions:
+                prev_x, prev_y = previous_positions[obj_id]
+                blob["prev_x"] = prev_x
+                blob["prev_y"] = prev_y
+            else:
+                blob["prev_x"] = None
+                blob["prev_y"] = None
+            
+            # Update for next frame
+            previous_positions[obj_id] = (x, y)
+            updated_blobs.append(blob)
 
         frame_info = {
             "frame_id": frame_id,
