@@ -8,6 +8,7 @@ FRAME_OUTPUT_DIR = "output/frames"
 JSON_OUTPUT_PATH = "output/blobs/blobs.json"
 
 os.makedirs(FRAME_OUTPUT_DIR, exist_ok=True)
+os.makedirs(os.path.dirname(JSON_OUTPUT_PATH), exist_ok=True)
 
 def preprocess_frame(frame):
     # Convert to grayscale
@@ -33,12 +34,19 @@ def detect_blobs(thresh):
         # Optional: Filter small blobs
         if area < 50:
             continue
+            
+        # Seat position logic using raw y value
+        if y > 700:
+            seat_position = "front"
+        else:
+            seat_position = "back"
 
         blobs.append({
             "object_id": i,
             "x": x,
             "y": y,
-            "area": int(area)
+            "area": int(area),
+            "seat_position": seat_position
         })
 
     return blobs
