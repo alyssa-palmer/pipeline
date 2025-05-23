@@ -1,0 +1,1709 @@
+[
+  {
+    "frame_id": 0,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066023,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 6,
+        "x": 1213,
+        "y": 580,
+        "area": 2263,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 9,
+        "x": 812,
+        "y": 593,
+        "area": 2182,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 13,
+        "x": 1003,
+        "y": 560,
+        "area": 9624,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 21,
+        "x": 1005,
+        "y": 607,
+        "area": 1197,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 23,
+        "x": 1092,
+        "y": 755,
+        "area": 1802,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 24,
+        "x": 943,
+        "y": 759,
+        "area": 1785,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 150,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066013,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 4,
+        "x": 1214,
+        "y": 581,
+        "area": 2166,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 5,
+        "x": 811,
+        "y": 592,
+        "area": 2159,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 9,
+        "x": 1008,
+        "y": 559,
+        "area": 7752,
+        "seat_position": "back",
+        "prev_x": 812,
+        "prev_y": 593
+      },
+      {
+        "object_id": 12,
+        "x": 929,
+        "y": 566,
+        "area": 412,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 17,
+        "x": 1092,
+        "y": 755,
+        "area": 1805,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 18,
+        "x": 943,
+        "y": 759,
+        "area": 1784,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      }
+    ],
+    "passenger_count": 3
+  },
+  {
+    "frame_id": 300,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066045,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 2,
+        "x": 985,
+        "y": 486,
+        "area": 1332,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 6,
+        "x": 1214,
+        "y": 581,
+        "area": 2205,
+        "seat_position": "back",
+        "prev_x": 1213,
+        "prev_y": 580
+      },
+      {
+        "object_id": 8,
+        "x": 811,
+        "y": 592,
+        "area": 2184,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 9,
+        "x": 1009,
+        "y": 545,
+        "area": 8439,
+        "seat_position": "back",
+        "prev_x": 1008,
+        "prev_y": 559
+      },
+      {
+        "object_id": 23,
+        "x": 1092,
+        "y": 755,
+        "area": 1805,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 24,
+        "x": 943,
+        "y": 760,
+        "area": 1789,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      }
+    ],
+    "passenger_count": 2
+  },
+  {
+    "frame_id": 450,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066005,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 6,
+        "x": 1214,
+        "y": 581,
+        "area": 2171,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 7,
+        "x": 811,
+        "y": 592,
+        "area": 2167,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 8,
+        "x": 1007,
+        "y": 552,
+        "area": 8288,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 23,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 24,
+        "x": 943,
+        "y": 760,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 760
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 600,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066010,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 6,
+        "x": 1213,
+        "y": 580,
+        "area": 2232,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 8,
+        "x": 809,
+        "y": 591,
+        "area": 2244,
+        "seat_position": "back",
+        "prev_x": 1007,
+        "prev_y": 552
+      },
+      {
+        "object_id": 9,
+        "x": 1006,
+        "y": 550,
+        "area": 9465,
+        "seat_position": "back",
+        "prev_x": 1009,
+        "prev_y": 545
+      },
+      {
+        "object_id": 12,
+        "x": 928,
+        "y": 559,
+        "area": 183,
+        "seat_position": "back",
+        "prev_x": 929,
+        "prev_y": 566
+      },
+      {
+        "object_id": 19,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 20,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 750,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066009,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 10,
+        "x": 1215,
+        "y": 581,
+        "area": 2199,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 11,
+        "x": 811,
+        "y": 592,
+        "area": 2160,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 13,
+        "x": 1007,
+        "y": 554,
+        "area": 6908,
+        "seat_position": "back",
+        "prev_x": 1003,
+        "prev_y": 560
+      },
+      {
+        "object_id": 24,
+        "x": 1009,
+        "y": 606,
+        "area": 354,
+        "seat_position": "back",
+        "prev_x": 943,
+        "prev_y": 760
+      },
+      {
+        "object_id": 26,
+        "x": 1092,
+        "y": 755,
+        "area": 1798,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 27,
+        "x": 943,
+        "y": 759,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 900,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066007,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 9,
+        "x": 1214,
+        "y": 580,
+        "area": 2211,
+        "seat_position": "back",
+        "prev_x": 1006,
+        "prev_y": 550
+      },
+      {
+        "object_id": 10,
+        "x": 940,
+        "y": 560,
+        "area": 9274,
+        "seat_position": "back",
+        "prev_x": 1215,
+        "prev_y": 581
+      },
+      {
+        "object_id": 23,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 24,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": 1009,
+        "prev_y": 606
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 1050,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066009,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 7,
+        "x": 1214,
+        "y": 581,
+        "area": 2182,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 8,
+        "x": 811,
+        "y": 592,
+        "area": 2175,
+        "seat_position": "back",
+        "prev_x": 809,
+        "prev_y": 591
+      },
+      {
+        "object_id": 10,
+        "x": 998,
+        "y": 549,
+        "area": 7944,
+        "seat_position": "back",
+        "prev_x": 940,
+        "prev_y": 560
+      },
+      {
+        "object_id": 22,
+        "x": 1092,
+        "y": 755,
+        "area": 1798,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 23,
+        "x": 943,
+        "y": 759,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 1200,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066010,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 11,
+        "x": 1213,
+        "y": 581,
+        "area": 2179,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 12,
+        "x": 812,
+        "y": 592,
+        "area": 2173,
+        "seat_position": "back",
+        "prev_x": 928,
+        "prev_y": 559
+      },
+      {
+        "object_id": 14,
+        "x": 1010,
+        "y": 559,
+        "area": 9573,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 29,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 30,
+        "x": 943,
+        "y": 759,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 1350,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066238,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 2,
+        "x": 1067,
+        "y": 296,
+        "area": 659,
+        "seat_position": "back",
+        "prev_x": 985,
+        "prev_y": 486
+      },
+      {
+        "object_id": 10,
+        "x": 976,
+        "y": 322,
+        "area": 154,
+        "seat_position": "back",
+        "prev_x": 998,
+        "prev_y": 549
+      },
+      {
+        "object_id": 13,
+        "x": 1009,
+        "y": 323,
+        "area": 63,
+        "seat_position": "back",
+        "prev_x": 1007,
+        "prev_y": 554
+      },
+      {
+        "object_id": 15,
+        "x": 993,
+        "y": 398,
+        "area": 1609,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 18,
+        "x": 1003,
+        "y": 546,
+        "area": 18525,
+        "seat_position": "back",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 25,
+        "x": 762,
+        "y": 498,
+        "area": 276,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 27,
+        "x": 1215,
+        "y": 579,
+        "area": 2607,
+        "seat_position": "back",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 29,
+        "x": 812,
+        "y": 592,
+        "area": 2512,
+        "seat_position": "back",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 31,
+        "x": 740,
+        "y": 512,
+        "area": 169,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 37,
+        "x": 1103,
+        "y": 527,
+        "area": 258,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 47,
+        "x": 942,
+        "y": 757,
+        "area": 1901,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 48,
+        "x": 1092,
+        "y": 754,
+        "area": 1826,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      }
+    ],
+    "passenger_count": 2
+  },
+  {
+    "frame_id": 1500,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066008,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 7,
+        "x": 1214,
+        "y": 581,
+        "area": 2166,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 8,
+        "x": 811,
+        "y": 592,
+        "area": 2168,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 9,
+        "x": 1013,
+        "y": 565,
+        "area": 4024,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 580
+      },
+      {
+        "object_id": 18,
+        "x": 1019,
+        "y": 609,
+        "area": 978,
+        "seat_position": "back",
+        "prev_x": 1003,
+        "prev_y": 546
+      },
+      {
+        "object_id": 20,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 21,
+        "x": 943,
+        "y": 759,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": 1005,
+        "prev_y": 607
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 1650,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066010,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 6,
+        "x": 1214,
+        "y": 581,
+        "area": 2169,
+        "seat_position": "back",
+        "prev_x": 1213,
+        "prev_y": 580
+      },
+      {
+        "object_id": 7,
+        "x": 811,
+        "y": 592,
+        "area": 2151,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 9,
+        "x": 1010,
+        "y": 559,
+        "area": 4472,
+        "seat_position": "back",
+        "prev_x": 1013,
+        "prev_y": 565
+      },
+      {
+        "object_id": 17,
+        "x": 1025,
+        "y": 607,
+        "area": 539,
+        "seat_position": "back",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 21,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 22,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 1800,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066007,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 7,
+        "x": 1214,
+        "y": 581,
+        "area": 2165,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 8,
+        "x": 811,
+        "y": 592,
+        "area": 2147,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 14,
+        "x": 1021,
+        "y": 590,
+        "area": 901,
+        "seat_position": "back",
+        "prev_x": 1010,
+        "prev_y": 559
+      },
+      {
+        "object_id": 19,
+        "x": 1017,
+        "y": 611,
+        "area": 1494,
+        "seat_position": "back",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 22,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 23,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 1950,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066005,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 3,
+        "x": 1057,
+        "y": 471,
+        "area": 51,
+        "seat_position": "back",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 8,
+        "x": 1215,
+        "y": 581,
+        "area": 2208,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 9,
+        "x": 811,
+        "y": 592,
+        "area": 2146,
+        "seat_position": "back",
+        "prev_x": 1010,
+        "prev_y": 559
+      },
+      {
+        "object_id": 10,
+        "x": 1007,
+        "y": 553,
+        "area": 5231,
+        "seat_position": "back",
+        "prev_x": 976,
+        "prev_y": 322
+      },
+      {
+        "object_id": 21,
+        "x": 1016,
+        "y": 609,
+        "area": 775,
+        "seat_position": "back",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 26,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 27,
+        "x": 943,
+        "y": 760,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": 1215,
+        "prev_y": 579
+      }
+    ],
+    "passenger_count": 2
+  },
+  {
+    "frame_id": 2100,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066008,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 12,
+        "x": 1214,
+        "y": 581,
+        "area": 2166,
+        "seat_position": "back",
+        "prev_x": 812,
+        "prev_y": 592
+      },
+      {
+        "object_id": 13,
+        "x": 811,
+        "y": 592,
+        "area": 2155,
+        "seat_position": "back",
+        "prev_x": 1009,
+        "prev_y": 323
+      },
+      {
+        "object_id": 20,
+        "x": 1013,
+        "y": 600,
+        "area": 1589,
+        "seat_position": "back",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 26,
+        "x": 1092,
+        "y": 755,
+        "area": 1798,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 27,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 760
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 2250,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066012,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 6,
+        "x": 1214,
+        "y": 581,
+        "area": 2180,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 8,
+        "x": 811,
+        "y": 592,
+        "area": 2192,
+        "seat_position": "back",
+        "prev_x": 1215,
+        "prev_y": 581
+      },
+      {
+        "object_id": 9,
+        "x": 1002,
+        "y": 560,
+        "area": 8296,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 21,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 1016,
+        "prev_y": 609
+      },
+      {
+        "object_id": 22,
+        "x": 943,
+        "y": 759,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 2400,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066008,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 4,
+        "x": 1214,
+        "y": 581,
+        "area": 2180,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 5,
+        "x": 812,
+        "y": 592,
+        "area": 2174,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 7,
+        "x": 1010,
+        "y": 559,
+        "area": 8826,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 14,
+        "x": 1015,
+        "y": 606,
+        "area": 174,
+        "seat_position": "back",
+        "prev_x": 1021,
+        "prev_y": 590
+      },
+      {
+        "object_id": 19,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 1017,
+        "prev_y": 611
+      },
+      {
+        "object_id": 20,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": 1013,
+        "prev_y": 600
+      }
+    ],
+    "passenger_count": 3
+  },
+  {
+    "frame_id": 2550,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066015,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 7,
+        "x": 1214,
+        "y": 581,
+        "area": 2163,
+        "seat_position": "back",
+        "prev_x": 1010,
+        "prev_y": 559
+      },
+      {
+        "object_id": 8,
+        "x": 811,
+        "y": 592,
+        "area": 2160,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 12,
+        "x": 1021,
+        "y": 565,
+        "area": 3673,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 18,
+        "x": 1092,
+        "y": 755,
+        "area": 1800,
+        "seat_position": "front",
+        "prev_x": 1019,
+        "prev_y": 609
+      },
+      {
+        "object_id": 19,
+        "x": 943,
+        "y": 759,
+        "area": 1790,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 2700,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066010,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 5,
+        "x": 1214,
+        "y": 581,
+        "area": 2187,
+        "seat_position": "back",
+        "prev_x": 812,
+        "prev_y": 592
+      },
+      {
+        "object_id": 7,
+        "x": 811,
+        "y": 592,
+        "area": 2162,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 8,
+        "x": 1010,
+        "y": 552,
+        "area": 6591,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 9,
+        "x": 929,
+        "y": 559,
+        "area": 100,
+        "seat_position": "back",
+        "prev_x": 1002,
+        "prev_y": 560
+      },
+      {
+        "object_id": 16,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": null,
+        "prev_y": null
+      },
+      {
+        "object_id": 17,
+        "x": 943,
+        "y": 759,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": 1025,
+        "prev_y": 607
+      }
+    ],
+    "passenger_count": 2
+  },
+  {
+    "frame_id": 2850,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066007,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 9,
+        "x": 1214,
+        "y": 581,
+        "area": 2179,
+        "seat_position": "back",
+        "prev_x": 929,
+        "prev_y": 559
+      },
+      {
+        "object_id": 11,
+        "x": 813,
+        "y": 592,
+        "area": 2196,
+        "seat_position": "back",
+        "prev_x": 1213,
+        "prev_y": 581
+      },
+      {
+        "object_id": 13,
+        "x": 990,
+        "y": 560,
+        "area": 7758,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 22,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 23,
+        "x": 943,
+        "y": 760,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 3000,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066007,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 5,
+        "x": 1214,
+        "y": 581,
+        "area": 2157,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 6,
+        "x": 811,
+        "y": 592,
+        "area": 2150,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 9,
+        "x": 1006,
+        "y": 562,
+        "area": 6450,
+        "seat_position": "back",
+        "prev_x": 1214,
+        "prev_y": 581
+      },
+      {
+        "object_id": 12,
+        "x": 930,
+        "y": 570,
+        "area": 162,
+        "seat_position": "back",
+        "prev_x": 1021,
+        "prev_y": 565
+      },
+      {
+        "object_id": 19,
+        "x": 1022,
+        "y": 606,
+        "area": 342,
+        "seat_position": "back",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 24,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 25,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": 762,
+        "prev_y": 498
+      }
+    ],
+    "passenger_count": 2
+  },
+  {
+    "frame_id": 3150,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066005,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 8,
+        "x": 1215,
+        "y": 581,
+        "area": 2186,
+        "seat_position": "back",
+        "prev_x": 1010,
+        "prev_y": 552
+      },
+      {
+        "object_id": 10,
+        "x": 812,
+        "y": 592,
+        "area": 2161,
+        "seat_position": "back",
+        "prev_x": 1007,
+        "prev_y": 553
+      },
+      {
+        "object_id": 11,
+        "x": 1000,
+        "y": 560,
+        "area": 7469,
+        "seat_position": "back",
+        "prev_x": 813,
+        "prev_y": 592
+      },
+      {
+        "object_id": 14,
+        "x": 929,
+        "y": 566,
+        "area": 482,
+        "seat_position": "back",
+        "prev_x": 1015,
+        "prev_y": 606
+      },
+      {
+        "object_id": 19,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 1022,
+        "prev_y": 606
+      },
+      {
+        "object_id": 20,
+        "x": 943,
+        "y": 759,
+        "area": 1790,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 3300,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066011,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 8,
+        "x": 1240,
+        "y": 569,
+        "area": 3704,
+        "seat_position": "back",
+        "prev_x": 1215,
+        "prev_y": 581
+      },
+      {
+        "object_id": 9,
+        "x": 812,
+        "y": 592,
+        "area": 2184,
+        "seat_position": "back",
+        "prev_x": 1006,
+        "prev_y": 562
+      },
+      {
+        "object_id": 11,
+        "x": 1014,
+        "y": 554,
+        "area": 9804,
+        "seat_position": "back",
+        "prev_x": 1000,
+        "prev_y": 560
+      },
+      {
+        "object_id": 22,
+        "x": 1005,
+        "y": 607,
+        "area": 702,
+        "seat_position": "back",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 25,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 26,
+        "x": 943,
+        "y": 759,
+        "area": 1792,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 3450,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066008,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 8,
+        "x": 1215,
+        "y": 580,
+        "area": 2212,
+        "seat_position": "back",
+        "prev_x": 1240,
+        "prev_y": 569
+      },
+      {
+        "object_id": 9,
+        "x": 811,
+        "y": 592,
+        "area": 2161,
+        "seat_position": "back",
+        "prev_x": 812,
+        "prev_y": 592
+      },
+      {
+        "object_id": 10,
+        "x": 1014,
+        "y": 554,
+        "area": 7280,
+        "seat_position": "back",
+        "prev_x": 812,
+        "prev_y": 592
+      },
+      {
+        "object_id": 24,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 25,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": 1092,
+        "prev_y": 755
+      }
+    ],
+    "passenger_count": 1
+  },
+  {
+    "frame_id": 3600,
+    "blobs": [
+      {
+        "object_id": 1,
+        "x": 920,
+        "y": 614,
+        "area": 1066008,
+        "seat_position": "back",
+        "prev_x": 920,
+        "prev_y": 614
+      },
+      {
+        "object_id": 2,
+        "x": 1009,
+        "y": 369,
+        "area": 620,
+        "seat_position": "back",
+        "prev_x": 1067,
+        "prev_y": 296
+      },
+      {
+        "object_id": 9,
+        "x": 1214,
+        "y": 581,
+        "area": 2181,
+        "seat_position": "back",
+        "prev_x": 811,
+        "prev_y": 592
+      },
+      {
+        "object_id": 10,
+        "x": 811,
+        "y": 592,
+        "area": 2185,
+        "seat_position": "back",
+        "prev_x": 1014,
+        "prev_y": 554
+      },
+      {
+        "object_id": 16,
+        "x": 1004,
+        "y": 555,
+        "area": 6774,
+        "seat_position": "back",
+        "prev_x": 1092,
+        "prev_y": 755
+      },
+      {
+        "object_id": 25,
+        "x": 1092,
+        "y": 755,
+        "area": 1799,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      },
+      {
+        "object_id": 26,
+        "x": 943,
+        "y": 759,
+        "area": 1791,
+        "seat_position": "front",
+        "prev_x": 943,
+        "prev_y": 759
+      }
+    ],
+    "passenger_count": 2
+  }
+]
